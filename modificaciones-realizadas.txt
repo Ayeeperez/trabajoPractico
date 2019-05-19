@@ -1,0 +1,8 @@
+Modificaciones 19/05 
+
+- Modificar los index.html por index.php
+- Index agregué require_once a register.php y a perfil-usuario.html
+- Perfil-usuario agregué require_once a index.php
+- Cambié el nombre perfil-usuario.HTML por perfil-usuario.PHP
+- Modifiqué nombre de archivo en todos los archivos que mencionan perfil-usuario.HTML
+- Button --> input

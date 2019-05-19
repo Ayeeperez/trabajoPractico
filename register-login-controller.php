@@ -13,7 +13,7 @@
 		$_SESSION['userLoged'] = $theUser;
 	}
 	// Función para validar el Registro
-	/*  
+	/*
 		No le pasamos parámetros pues usamos las variables super globales $_POST y $FILES
 	*/
 	function registerValidate(){

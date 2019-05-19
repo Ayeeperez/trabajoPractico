@@ -8,7 +8,7 @@
 		exit;
 	}
 	$pageTitle = 'Register';
-	require_once 'partials/head.php';
+	// require_once 'partials/head.php';
 	$countries = [
 		'ar' => 'Argentina',
 		'bo' => 'Bolivia',
@@ -50,7 +50,7 @@
 			login($theUser);
 		}
 	}
-	require_once 'partials/navbar.php';
+	// require_once 'partials/navbar.php';
 ?>
 
 	<!-- Register-Form -->
@@ -174,4 +174,4 @@
 	</div>
 	<!-- //Register-Form -->
 
-<?php require_once 'partials/footer.php'; ?>
+<!-- <php require_once 'partials/footer.php'; ? -->
